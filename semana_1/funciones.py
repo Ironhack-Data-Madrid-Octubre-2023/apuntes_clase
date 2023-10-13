@@ -1,6 +1,6 @@
 def sumar(a, b):
     """
-    Hola, estoy en el archivo de python
+    Hola SUMAR, estoy en el archivo de python
     
     """
     return a+b
@@ -9,7 +9,7 @@ def sumar(a, b):
 
 def restar(a, b):
     """
-    Hola, estoy en el archivo de python
+    Hola RESTAR, estoy en el archivo de python
     
     """
     return a-b
@@ -18,7 +18,7 @@ def restar(a, b):
 
 def multi(a, b):
     """
-    Hola, estoy en el archivo de python
+    Hola MULTI, estoy en el archivo de python
     
     """
     return a*b
@@ -27,7 +27,7 @@ def multi(a, b):
 
 def divi(a, b):
     """
-    Hola, estoy en el archivo de python
+    Hola DIVI, estoy en el archivo de python
     
     """
     return a/b
